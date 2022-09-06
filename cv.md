@@ -1,23 +1,20 @@
 [rsschool-cv](https://shopot.github.io/rsschool-cv/cv)
 # Konstantin Sapronov
-
 ### DevOps engineer, Full Stack Developer
 
-*********
-
-# Contact information:
+## Contact information:
 
 * **Address:** Saint Petersburg, Russia
 * **GitHub:** [shopot](https://github.com/shopot)
 * **Discord:** Costas#9037
 
-# About Me
+## About Me
 Network & System Administrator, Software Developer.
 
 Software engineer with 20+ years of experience in commercial application and software development.
 I have extensive experience with multiple UNIX-based operating systems with an emphasis on Linux but also FreeBSD and Solaris, Cisco/Foundry/Force10 networking hardware, system and network security, network design and unix backups. 
  
-# Skills
+## Skills
 
 * Installation, configuration and administration Linux (Debian, Ubuntu, RedHat)
 * Desktop support of Windows*
@@ -28,7 +25,7 @@ I have extensive experience with multiple UNIX-based operating systems with an e
 * Vue, React, Python - in progress
 * GitLab, Docker
 
-# Code Examples
+## Code Examples
 
 ```javascript
 function nthFibo(n) {
@@ -37,11 +34,11 @@ function nthFibo(n) {
 }
 ```
 
-# Education
+## Education
 
 * Novosibirsk State Technical University
 
-# Languages
+## Languages
 
 * **Russian** - native speaker.
 * **English** - A2
